@@ -1864,7 +1864,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 710668894}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.17, y: -2.3, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_Children: []
   m_Father: {fileID: 1821101460}
@@ -3037,6 +3037,7 @@ MonoBehaviour:
   player: {fileID: 1862759455}
   xCord: {fileID: 210400116}
   yCord: {fileID: 1690958436}
+  map: {fileID: 1323126824}
   straight_accel: {fileID: 2150301698832519650, guid: f09120cbf52e56543b733d4d083101f3, type: 3}
   T_accel: {fileID: 2469146160487163839, guid: 32003cb0ddbc84742979a274511631b4, type: 3}
   inv_T_accel: {fileID: 5481590511407201042, guid: 9767f13aee4832545982812b48f4080e, type: 3}

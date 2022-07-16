@@ -4,7 +4,7 @@ public class cable_drawer : MonoBehaviour
 {
     public bool electrified;
     public bool connected;
-    public GameObject connectedObject;
+    public GameObject connectedObject = null;
     public GameObject self;
     public Animator anim;
 
